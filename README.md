@@ -1,6 +1,6 @@
 ### Ana👋
 
-[![Screenshot-from-2022-02-17-10-52-47.png](https://i.postimg.cc/4xRFPXgT/Screenshot-from-2022-02-17-10-52-47.png)](https://postimg.cc/rKgJFXsh)
+[![Whats-App-Image-2022-03-14-at-16-04-19.jpg](https://i.postimg.cc/bw7FLdCD/Whats-App-Image-2022-03-14-at-16-04-19.jpg)](https://postimg.cc/FYxZHFQN)
 
 Here are some ideas to get you started:
 
