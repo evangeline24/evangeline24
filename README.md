@@ -1,7 +1,6 @@
 ### Ana👋
 
-[![Whats-App-Image-2022-03-14-at-16-04-19.jpg](https://i.postimg.cc/bw7FLdCD/Whats-App-Image-2022-03-14-at-16-04-19.jpg)](https://postimg.cc/FYxZHFQN)
-
+[![iot-1.gif](https://i.postimg.cc/9MnDTGMX/iot-1.gif)](https://postimg.cc/wyDxYRLn)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
