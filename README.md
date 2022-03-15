@@ -26,8 +26,7 @@ Actividades realizadas:
 
 IoT básicamente se refiere a miles de millones de dispositivos físicos que están conectados a Internet en todo el mundo. Está fusionando efectivamente los mundos digital y físico.
 
-> Tan pronto como comence a programar me encontré, que crear programas correctos no es nada fácil como había pensado. Tuvo que descubrirse la depuración. Puedo recordar el instante exacto en el que me dí cuenta que una gran parte de mi vida desde entonces iba a pasarla encontrando errores en mis propios códigos.
-
+💚
 
 Gracias
 
