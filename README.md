@@ -2,7 +2,7 @@
 
 [![iot-1.gif](https://i.postimg.cc/9MnDTGMX/iot-1.gif)](https://postimg.cc/wyDxYRLn)
 
-    Soy Ana ... estudiante de Ingeniería Telemática  empecé en el mundo de la tecnología  después de pasar un buen rato estudiando Ingeniería Oceánica . Me enamoré del mundo  IoT . 
+    Soy Ana ... estudiante de Ingeniería Telemática  empecé en el mundo de la tecnología  después de pasar un buen rato estudiando Ingeniería Oceánica . Me interesa el mundo  IoT . 
 Actividades realizadas:
 - 🔑 Realización de rediseño de página web utilizando las herramientas html, css,
         bootstrap, y javascript.
