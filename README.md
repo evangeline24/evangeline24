@@ -18,6 +18,7 @@ Actividades realizadas:
 
 ## Intereses: IoT/Cloud
 [![api-gateway-pattern.png](https://i.postimg.cc/ZK50Ks5k/api-gateway-pattern.png)](https://postimg.cc/4njXW5cw)
+[![image-6.png](https://i.postimg.cc/Hnh82VZZ/image-6.png)](https://postimg.cc/CnbKMLVk)
 
   ### Hardware IoT | Software IoT
 - El desarrollo de hardware detrás del Internet de las Cosas radica en un microcontrolador o un circuito integrado que debe ser pequeño y tener muy bajo consumo (SoC).
